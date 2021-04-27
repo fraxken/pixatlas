@@ -1,0 +1,24 @@
+{
+  "name": "pixatlas",
+  "version": "1.0.0",
+  "description": "Pixi.js Atlas editor/generator",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraxken/pixatlas.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fraxken/pixatlas/issues"
+  },
+  "homepage": "https://github.com/fraxken/pixatlas#readme",
+  "dependencies": {
+    "electron": "^12.0.5"
+  }
+}
